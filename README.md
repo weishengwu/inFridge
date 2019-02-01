@@ -1,0 +1,2 @@
+# inFridge
+Goal: food conservation
